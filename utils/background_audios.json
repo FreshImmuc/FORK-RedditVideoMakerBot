@@ -1,0 +1,43 @@
+{
+    "__comment": "Supported Backgrounds Audio. Can add/remove background audio here...",
+    "lofi": [
+        "https://www.youtube.com/watch?v=LTphVIore3A",
+        "lofi.mp3",
+        "Super Lofi World"
+    ],
+    "lofi-2": [
+        "https://www.youtube.com/watch?v=BEXL80LS0-I",
+        "lofi-2.mp3",
+        "stompsPlaylist"
+    ],
+    "chill-summer": [
+        "https://www.youtube.com/watch?v=EZE8JagnBI8",
+        "chill-summer.mp3",
+        "Mellow Vibes Radio"
+    ],
+    "softcore": [
+        "https://www.youtube.com/watch?v=8_fx0TZ_1lQ",
+        "softcore.mp3",
+        "The Neighbourhood"
+    ],
+    "never-let-go-of-me": [
+        "https://www.youtube.com/watch?v=w5gPr7c5uW0",
+        "never-let-go-of-me.mp3",
+        "Baltra"
+    ],
+    "fluxxwave": [
+        "https://www.youtube.com/watch?v=LGmuwMzTOKs",
+        "fluxxwave.mp3",
+        "Fluxxwave"
+    ],
+    "particles": [
+        "https://www.youtube.com/watch?v=-NxIQYQsaXc",
+        "particles.mp3",
+        "Particles"
+    ],
+    "after-dark": [
+        "https://www.youtube.com/watch?v=3lb0el54wuU",
+        "after-dark.mp4",
+        "EXE ROHIT"
+    ]
+}
